@@ -1,4 +1,4 @@
-package org.main;
+package org.zoo;
 
 public class Owner {
     public static void main(String[] args) {

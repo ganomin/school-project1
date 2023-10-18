@@ -1,4 +1,4 @@
-package org.main;
+package org.zoo;
 
 public class Animal {
     String spec;
